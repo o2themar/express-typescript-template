@@ -1,7 +1,7 @@
 {
-  "name": "{PROJECT_NAME_HERE}",
+  "name": "PROJECT_NAME_HERE",
   "version": "0.0.1",
-  "description": "{PROJECT_DESCRIPTION_HERE}",
+  "description": "PROJECT_DESCRIPTION_HERE",
   "main": "index.ts",
   "scripts": {
     "dev": "tsx watch --clear-screen=false src/index.ts | pino-pretty",
