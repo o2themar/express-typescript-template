@@ -1,4 +1,4 @@
-# 🚀 {PROJECT NAME HERE}
+# 🚀 PROJECT NAME HERE
 
 [![Build Express+Typescript Application](https://github.com/Effyis/PROJECT_NAME_HERE/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/Effyis/PROJECT_NAME_HERE/actions/workflows/build.yml)
 [![CodeQL](https://github.com/Effyis/PROJECT_NAME_HERE/actions/workflows/codeql.yml/badge.svg?branch=master)](https://github.com/Effyis/PROJECT_NAME_HERE/actions/workflows/codeql.yml)
