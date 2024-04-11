@@ -1,7 +1,7 @@
 {
-  "name": "express-typescript-boilerplate",
-  "version": "1.2.19",
-  "description": "An Express boilerplate backend",
+  "name": "{PROJECT_NAME_HERE}",
+  "version": "0.0.1",
+  "description": "{PROJECT_DESCRIPTION_HERE}",
   "main": "index.ts",
   "scripts": {
     "dev": "tsx watch --clear-screen=false src/index.ts | pino-pretty",
@@ -62,7 +62,5 @@
     "**/*": "npm run format",
     "**/*.{js,ts}": "npm run lint:fix"
   },
-  "author": "Edwin Hernandez",
-  "repository": "edwinhern/express-typescript-2024",
-  "license": "ISC"
+  "author": "Omar Ali"
 }
